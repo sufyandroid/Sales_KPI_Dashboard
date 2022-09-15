@@ -4,7 +4,7 @@ In this Project, I normalized a superstore dataset using **MS Excel** and extrac
 
 ## Data Sourcing:
 The data used in this case study is present in the `Data source` folder.
-## Normalizing data:
+## Data Normalizing:
 The given data is in the form of table which include all the permanent and the continuous data. Firstly, I seperate the data into seperate sheets of **Sales**, **Customers**, **Sales Reps**, and **Locations** and **Products**.
 
 ![denormalized SalesData](https://user-images.githubusercontent.com/107538510/175783961-4fb009fe-1c89-4861-9a76-b6184f1f474d.PNG)
@@ -18,7 +18,7 @@ After normalizing the data, I just upload MS Excel data file in the Power BI whe
 
 ![model tab](https://user-images.githubusercontent.com/107538510/175784265-aaf85467-050f-438b-b2ab-05306f2c75fb.PNG)
 
-## Report In Power BI:
+## Creating report In Power BI:
 After building the relationship between different tables, it is easier to visualize the data for quick and better understanding of the Sales to region and to find the maximum number of Sales done by which Salesperson. All the insights shows the answers to every question about sales, customer, profit, and the regions where maximum sales are done.
 
 ![Superstore Sales KPI Dashboard](https://user-images.githubusercontent.com/96622330/190375916-8482e4c2-8669-41c5-9c82-82eca5cb25a3.png)
