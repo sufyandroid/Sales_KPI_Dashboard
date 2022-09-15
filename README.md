@@ -2,11 +2,6 @@
 
 In this Project, I normalized a superstore dataset using **MS Excel** and extracted meaningful insights from it using **Power BI Desktop**.
 
-## Data Modelling:
-Data modeling is the process of creating a visual representation of either a whole information system or parts of it to communicate connections between data points and structures. The goal is to illustrate the types of data used and stored within the system, the relationships among these data types, the ways the data can be grouped and organized and its formats and attributes. Data modelling is a technique used in NORMALIZING data, that is breaking them down into a fact table and dimension table.
-
-Data models are built around business needs. Rules and requirements are defined upfront through feedback from business stakeholders so they can be incorporated into the design of a new system or adapted in the iteration of an existing one. In this project, Data is normalized on the basis of permannent data and the continuous data foe better understanding of the relationships between the datasets.
-
 ## Case Study: *Superstore Data*
 ## Data Sourcing:
 The data used in this project is present in the `Data source` folder.
@@ -20,7 +15,7 @@ After seperating the columns into different sheets.
 ![normalized data](https://user-images.githubusercontent.com/107538510/175783987-080e0d3c-94b7-4bf9-a2c1-f05d7a04e9e9.PNG)
 
 ## Data Modelling in Power BI:
-After normalizing the data, I just upload MS Excel data file in the Power BI where the power query is opened. I then clean and modify the data by making some changes like the first row assign ass header row and deleting unnecessary blank rows in the power query. Then load the data in Power BI. After checking the above tabs, I opened the model tab view and connect the fact table (permanent data table) keys to the dimension (continuous data table) keys.
+After normalizing the data, I just upload MS Excel data file in the Power BI where the power query is opened. I then clean and modify the data by making some changes like the first row assign ass header row and deleting unnecessary blank rows in the power query. Then load the data in Power BI. After checking the above tabs, I opened the model tab view and connect the fact table (continuous data table) keys to the dimension (permanent data table) keys.
 
 ![model tab](https://user-images.githubusercontent.com/107538510/175784265-aaf85467-050f-438b-b2ab-05306f2c75fb.PNG)
 
