@@ -2,9 +2,8 @@
 
 In this Project, I normalized a superstore dataset using **MS Excel** and extracted meaningful insights from it using **Power BI Desktop**.
 
-## Case Study: *Superstore Data*
 ## Data Sourcing:
-The data used in this project is present in the `Data source` folder.
+The data used in this case study is present in the `Data source` folder.
 ## Normalizing data:
 The given data is in the form of table which include all the permanent and the continuous data. Firstly, I seperate the data into seperate sheets of **Sales**, **Customers**, **Sales Reps**, and **Locations** and **Products**.
 
