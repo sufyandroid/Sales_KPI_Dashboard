@@ -1,4 +1,4 @@
-# SuperStore Sales KPI Dashboard
+# Superstore Sales KPI Dashboard
 
 In this Project, I normalized a dataset using **MS Excel** and extracted meaningful insights from it using **Power BI Desktop**.
 
