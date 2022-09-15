@@ -1,6 +1,6 @@
 # Superstore Sales KPI Dashboard
 
-In this Project, I normalized a superstore dataset using **MS Excel** and extracted meaningful insights from it using **Power BI Desktop**.
+In this Project, I normalized a superstore dataset using **MS Excel** and extracted meaningful insights from it using **Power BI**.
 
 ## Data Sourcing:
 The data used in this case study is present in the `Data source` folder.
