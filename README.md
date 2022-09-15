@@ -1,6 +1,6 @@
-# Sales KPI Dashboard
+# SuperStore Sales KPI Dashboard
 
-In this Project, I normalized a dataset using *MS Excel* and extracted meaningful insights from it using *Power BI Desktop*.
+In this Project, I normalized a dataset using **MS Excel** and extracted meaningful insights from it using *Power BI Desktop*.
 
 ## Data Modelling:
 Data modeling is the process of creating a visual representation of either a whole information system or parts of it to communicate connections between data points and structures. The goal is to illustrate the types of data used and stored within the system, the relationships among these data types, the ways the data can be grouped and organized and its formats and attributes. Data modelling is a technique used in NORMALIZING data, that is breaking them down into a fact table and dimension table.
