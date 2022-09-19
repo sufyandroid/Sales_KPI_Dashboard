@@ -23,4 +23,4 @@ After building the relationship between different tables, it is easier to visual
 
 ![Superstore Sales KPI Dashboard-1](https://user-images.githubusercontent.com/96622330/190971258-9d976b5e-61bb-47a5-bc6d-38255d3e1381.png)
 
-You can view the Interactive Power BI Dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiMDViYjAxYjUtOTAwMC00Nzg0LTllYzUtOThmZTA5NTZiYjcyIiwidCI6ImQ1Mzc0ODM2LTJiYmItNGM5Yi1hZmM5LTgwNjU0NzU0ZDNiYSIsImMiOjl9&pageName=ReportSection).
+You can view the this Power BI Dashboard Interactively [here](https://app.powerbi.com/view?r=eyJrIjoiMDViYjAxYjUtOTAwMC00Nzg0LTllYzUtOThmZTA5NTZiYjcyIiwidCI6ImQ1Mzc0ODM2LTJiYmItNGM5Yi1hZmM5LTgwNjU0NzU0ZDNiYSIsImMiOjl9&pageName=ReportSection).
