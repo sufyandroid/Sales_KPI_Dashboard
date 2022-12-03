@@ -21,6 +21,6 @@ After normalizing the data, I just upload MS Excel data file in the Power BI whe
 ## Creating report In Power BI:
 After building the relationship between different tables, it is easier to visualize the data for quick and better understanding of the Sales to region and to find the maximum number of Sales done by which Salesperson. All the insights shows the answers to every question about sales, customer, profit, and the regions where maximum sales are done.
 
-![Superstore Sales KPI Dashboard-1](https://user-images.githubusercontent.com/96622330/190971258-9d976b5e-61bb-47a5-bc6d-38255d3e1381.png)
+![Superstore Sales KPI Dashboard](https://user-images.githubusercontent.com/96622330/205440033-f72963ea-2499-4213-98aa-ac1db00bb745.png)
 
 You can view this Power BI Dashboard Interactively [here](https://app.powerbi.com/view?r=eyJrIjoiMDViYjAxYjUtOTAwMC00Nzg0LTllYzUtOThmZTA5NTZiYjcyIiwidCI6ImQ1Mzc0ODM2LTJiYmItNGM5Yi1hZmM5LTgwNjU0NzU0ZDNiYSIsImMiOjl9&pageName=ReportSection).
